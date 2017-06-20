@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Question1">1. Deoxyribonuclei acid commonly refered as</string>
+    <string name="Question1A">RNA</string>
+    <string name="Question1B">DNA</string>
+    <string name="Question1C">CIA</string>
+
+    <string name="Question2">2. What process involves treating rubber with sulfur to harden it?</string>
+
+    <string name="Question3">3. Name two organelles of a eukaryotic cell</string>
+    <string name="Question3A">Ribosome</string>
+    <string name="Question3B">Plasmids</string>
+    <string name="Question3C">Golgi apparatus</string>
+    <string name="Question3D">Diploid</string>
+
+    <string name="Question4">4. This word describes the force that pulls objects to the middle of the earth</string>
+
+    <string name="Question5">5. Which two planets have one or two moons?</string>
+    <string name="Question5A">Ceres</string>
+    <string name="Question5B">Mercury</string>
+    <string name="Question5C">Earth</string>
+    <string name="Question5D">Pluto</string>
+
+    <string name="Question6">6. Where do you find scaphoid bone in human body?</string>
+
+    <string name="Question7">7. Which grows upwards stalactites or stalagmites?</string>
+    <string name="Question7A">Stalacities</string>
+    <string name="Question7B">Stalagmites</string>
+</resources>
